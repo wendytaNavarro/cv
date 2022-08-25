@@ -8,4 +8,4 @@ Geografa
 - Gestion de riesgo  
 - Manejo de cuencas y áreas forestales  
 
-![](wen.jpg)
+![](file:///C:/Users/B34879/Desktop/wen.webp)  
