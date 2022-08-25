@@ -6,6 +6,6 @@ Geografa
 - Procesamientno de datos espaciales  
 - Tecnico SIG 
 - Gestion de riesgo  
-- Manejo de cuencas y áreas forestales  
+- Manejo de cuencas y áreas forestales 
 
-![](file:///C:/Users/B34879/Desktop/wen.webp)  
+![](https://cnnespanol.cnn.com/2019/08/08/gatos-entienden-nombres-ignorarlo-estudio-investigadores/)  
